@@ -2,6 +2,6 @@ package halo
 
 import "fmt"
 
-func HaloDunia(){
-	fmt.Println("Halo, Dunia")
+func HaloDunia(nama string){
+	fmt.Println("Halo", nama)
 }
